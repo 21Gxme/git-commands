@@ -1,0 +1,43 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+pytestdebug.log
+
+# Environment
+venv/
+env/
+*.env
+
+# Compiled Files
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# macOS-specific
+.DS_Store
+
+# Editors
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+*.idea/
+
+# Temp Files
+tmp/
+temp/
+tempfiles/
