@@ -19,7 +19,7 @@
    fatal:  The current branch dev-foo has no upstream branch. 
    ```
    Explain this error.
-   > That the branch dev-foo doesn't have an upstream remote branch associated with it. It doesn't know where to push to.
+   > that the branch dev-foo doesn't have an upstream remote branch associated with it. It doesn't know where to push to.
 
 
 4. The command to push `dev-foo` to `origin` as a **new remote branch** on `origin` is:
