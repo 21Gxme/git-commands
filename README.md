@@ -193,12 +193,10 @@ test/
 
 ## Favorites
 
-- Rebasing a feature branch onto the latest changes from the main branch. This can help keep your feature branch up to date with the latest developments in the main branch.
+- This is a common task when working on a new feature or bug fix. It empowers developers to work collaboratively, and maintain a well-organized version history.
     ```
-    git rebase main
+    git checkout -b new-feature
     ```
-
-
 
 ---
 ## Resources
